@@ -16,32 +16,32 @@ Introduction to Human Biology Laboratory Workbook; an Open Education Resource. F
 
 \# **Table of Contents**
 
-| Acknowledgements iii                                              |     |
-|-------------------------------------------------------------------|-----|
-| Chapter 1: Anatomical Language 1                                  |     |
-| Chapter 2: Use of the Microscope 30                               |     |
-| Chapter 3: Cells 40                                               |     |
-| Chapter 4: Histology/Tissues 73                                   |     |
-| Chapter 5: Integumentary<br>System 95                             |     |
-| Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy 123   |     |
-| Chapter 7: Skeletal System –Axial Division151                     |     |
-| Chapter 8: Skeletal System -<br>Appendicular Division193          |     |
-| Chapter 9. The Articulations and Joints224                        |     |
-| Chapter 10: Skeletal Muscle<br>Histology and Microanatomy245      |     |
-| Chapter 11: Muscular system; Gross Anatomy268                     |     |
-| Chapter 12: Nervous System; Microanatomy305                       |     |
-| Chapter 13: Nervous System; Gross Anatomy326                      |     |
-| Chapter 14: Special Senses375                                     |     |
-| Chapter 15: Endocrine System409                                   |     |
-| Chapter 16 Cardiovascular System: The Blood and Heart440          |     |
-| Chapter 17: Cardiovascular system; The Arteries and Veins474      |     |
-| Chapter 18: Lymphatic System509                                   |     |
-| Chapter 19: Respiratory System531                                 |     |
-| Chapter 20: Digestive System561                                   |     |
-| Chapter 21: Urinary System612                                     |     |
-| Chapter 22: Reproductive System: Male Reproductive System643      |     |
-| Chapter 23: Reproductive System: Female Reproductive<br>System663 |     |
-| Attributions692                                                   |     |
+| Acknowledgements iii                                               |     |
+|--------------------------------------------------------------------|-----|
+| Chapter 1: Anatomical Language 1                                   |     |
+| Chapter 2: Use of the Microscope 30                                |     |
+| Chapter 3: Cells 40                                                |     |
+| Chapter 4: Histology/Tissues 73                                    |     |
+| Chapter 5: Integumentary<br>System 95                              |     |
+| Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy 123    |     |
+| Chapter 7: Skeletal System –Axial Division 151                     |     |
+| Chapter 8: Skeletal System -<br>Appendicular Division 193          |     |
+| Chapter 9. The Articulations and Joints 224                        |     |
+| Chapter 10: Skeletal Muscle<br>Histology and Microanatomy 245      |     |
+| Chapter 11: Muscular system; Gross Anatomy 268                     |     |
+| Chapter 12: Nervous System; Microanatomy 305                       |     |
+| Chapter 13: Nervous System; Gross Anatomy 326                      |     |
+| Chapter 14: Special Senses 375                                     |     |
+| Chapter 15: Endocrine System 409                                   |     |
+| Chapter 16 Cardiovascular System: The Blood and Heart 440          |     |
+| Chapter 17: Cardiovascular system; The Arteries and Veins 474      |     |
+| Chapter 18: Lymphatic System 509                                   |     |
+| Chapter 19: Respiratory System 531                                 |     |
+| Chapter 20: Digestive System 561                                   |     |
+| Chapter 21: Urinary System 612                                     |     |
+| Chapter 22: Reproductive System: Male Reproductive System 643      |     |
+| Chapter 23: Reproductive System: Female Reproductive<br>System 663 |     |
+| Attributions 692                                                   |     |
 
 \# **Acknowledgments**
 
