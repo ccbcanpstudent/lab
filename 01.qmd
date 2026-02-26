@@ -18,12 +18,12 @@ Introduction to Human Biology Laboratory Workbook; an Open Education Resource. F
 
 | Acknowledgements iii                                              |     |
 |-------------------------------------------------------------------|-----|
-| Chapter 1: Anatomical Language1                                   |     |
+| Chapter 1: Anatomical Language 1                                  |     |
 | Chapter 2: Use of the Microscope 30                               |     |
-| Chapter 3: Cells40                                                |     |
-| Chapter 4: Histology/Tissues73                                    |     |
-| Chapter 5: Integumentary<br>System95                              |     |
-| Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy123    |     |
+| Chapter 3: Cells 40                                               |     |
+| Chapter 4: Histology/Tissues 73                                   |     |
+| Chapter 5: Integumentary<br>System 95                             |     |
+| Chapter 6: Skeletal Terms, Bone Histology, and Microanatomy 123   |     |
 | Chapter 7: Skeletal System –Axial Division151                     |     |
 | Chapter 8: Skeletal System -<br>Appendicular Division193          |     |
 | Chapter 9. The Articulations and Joints224                        |     |
@@ -417,7 +417,7 @@ Indicate in the boxes provided the deep and superficial positions.
 Use appropriate anatomical and regional terminology to fill in the blanks in the statements below.
 
 | Index | Fill in the blank |
-|----|----|
+|------------------------------------|------------------------------------|
 | 1 | The elbow is located \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the wrist. |
 | 2 | The umbilicus is located to the sternum. |
 | 3 | The nose is located and \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ to the ears. |
@@ -432,7 +432,7 @@ Use appropriate anatomical and regional terminology to fill in the blanks in the
 Next, using the definition of anatomical position and correct anatomical language, take turns with your lab partner to give simple, one-movement verbal instructions to transition from the given starting positions (listed in the table below), so that the other person ends up in anatomical position. Write your detailed step-by-step instructions on the provided table.
 
 | Starting Position | Instructions Given to Move to<br>Anatomical Position |
-|----|----|
+|------------------------------------|------------------------------------|
 | Example: Standing from a<br>Half Spinal Twist<br>with the<br>feet placed to the left, the<br>torso twisted away from you<br>and the head facing at a<br>slight angle to the right,<br>away from you.<br>Figure 1.6 | Example:<br>•<br>Rotate the mental region<br>anteriorly and medially.<br>•<br>Rotate the entire body 180<br>degrees to the left.<br>•<br>Position palmar region<br>anteriorly |
 | 1: From lying face-up on the<br>ground with their head,<br>back, hands, and feet on the<br>floor with both knees bent<br>Figure 1.7 |  |
 | 2: From a seated position<br>on the floor with their legs<br>straight and arms folded<br>across their chest<br>Figure 1.8 |  |
@@ -660,7 +660,7 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 | --  | --  | --------------------- | --  | --  | --  |
 
 | Systems |   |   |   |   |   |   |
-|----|----|----|----|----|----|----|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | • | The system forms the external body covering. |  |  |  |  |  |
 | • | The system protects deeper tissues from injury. |  |  |  |  |  |
 | • | The system synthesizes vitamin D. |  |  |  |  |  |
@@ -687,7 +687,7 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 | the navel. | •<br>The skin is to the muscles. |  |  |  |  |  |
 
 | Regional terms review<br>•<br>''Nasal'' refers to the | •<br>''Palmar'' refers to the |
-|----|----|
+|------------------------------------|------------------------------------|
 | •<br>''Oral'' refers to the | •<br>''Digital'' refers to the |
 |  |  |
 | •<br>''Cervical'' refers to the | •<br>''Pubic'' refers to the |
@@ -718,7 +718,7 @@ Using your textbook, list the 12 organ systems of the body below and the organs 
 | d.<br>Frontal plane |  |
 
 | 3\. | To make a banana split, you halve<br>a banana into two long, thin, right,<br>and left sides along the | 8\. |   | What is the position of the body<br>when it is in the "normal<br>anatomical position?" |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 |  | a.<br>coronal plane |  | a\. | The person is prone with upper |
 |  | b.<br>longitudinal plane |  |  | limbs, including palms, touching |
 |  | c.<br>midsagittal plane |  |  | sides and lower limbs touching at |
@@ -835,7 +835,7 @@ Note: The clues include the number of letters in a word in the parentheses at th
 -   **Down: 1** Mediastinum, **2** Pelvic, **3** Abdominal.
 
 | Chapter 1: Anatomical Language Glossary |   |   |   |   |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | Key Terms | Definitions |  |  |  |
 | abdominal | of or pertaining to the abdomen; ventral. |  |  |  |
 | Abdominal cavity | General region bounded by the abdominal wall and the pelvis. It contains the |  |  |  |
@@ -892,7 +892,7 @@ Note: The clues include the number of letters in a word in the parentheses at th
 |  | posterior body cavity |  |  |  |
 
 | effector | effector organ that can cause a change in a value |
-|----|----|
+|------------------------------------|------------------------------------|
 | endocrine system | a network of glands that produce and release hormones into the bloodstream, |
 |  | which help regulate various bodily functions. |
 | external | Relating to, existing on, or connected with the outside or an outer part |
@@ -949,7 +949,7 @@ Note: The clues include the number of letters in a word in the parentheses at th
 |  | of, situated in or on, or worn on the chest |
 
 | pelvic | of, relating to, or located in or near the pelvis |
-|----|----|
+|------------------------------------|------------------------------------|
 | Pelvic cavity<br>the body cavity that is bounded by the bones of the pelvis. |  |
 | plantar | Of or relating to the sole of the foot |
 | proximal | Situated close to |
@@ -1004,7 +1004,7 @@ Note: The clues include the number of letters in a word in the parentheses at th
 | superficial<br>superior | describes a position nearer to the surface of the body<br>describes a position above or higher than another part of the body proper; also |
 
 | supine | face up |
-|----|----|
+|------------------------------------|------------------------------------|
 | systemic anatomy | study of the structures that contribute to specific body systems |
 | tarsal | of or relating to the tarsus |
 | thoracic | of, relating to, located within, or involving the thorax |
